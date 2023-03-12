@@ -1,0 +1,92 @@
+
+.bod{
+    width: 100%;
+    min-height: 100vh;
+}
+.re{
+    text-decoration: underline;
+    text-align: end;
+    text-decoration-color: #7876ea;
+    border: 5px solid #12ef0efd;
+    padding: 10px 5px;
+    border-radius: 10px;
+    font-size: larger;
+
+}
+.link{
+
+    border: 5px solid #c90eef;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-right: 3px;
+    
+    align-items: center;
+    
+}
+.li{
+
+    border: 5px solid #0ec6effd;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-right: 3px;
+    
+    align-items: center;
+    
+}
+.l{
+
+    border: 5px solid #120eef;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-right: 3px;
+    
+    align-items: center;
+    
+}
+.lik{
+
+    border: 5px solid #39026c;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-right: 3px;
+    
+    align-items: center;
+    
+}
+.likwe{
+
+    border: 5px solid #efef0e;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-right: 3px;
+    
+    align-items: center;
+    
+}
+.bts
+{
+    border: 5px solid #0fb451;
+    padding: 6px 25px;
+    border-radius: 10px
+}
+.photo{
+    width: 18%;
+    margin: left 20px;
+    text-align: left;
+
+}
+
+.container{
+    border: 5px solid #f68504;
+    padding: 50px 25px;
+    border-radius: 50px;
+    
+    margin-right: 3px;
+}
+.p{
+    border: 5px #efef0e;
+    border-radius: 30px;
+    
+    width:30%;
+    align-self: first baseline;
+}
